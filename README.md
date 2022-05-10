@@ -1,4 +1,12 @@
 # proje-3
+
+-                  7
+-             5         8
+-          1     6            9   
+-       0    3
+-          2   4  
+
+
 *	Root:7
 *	5, 7 den küçük 7 nin soluna yazılır.
 *	1, 5 ten küçük 5 in soluna yazılır.
